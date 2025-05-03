@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">Full-Stack Web Developer | Laravel, Node.js, React & Next.js Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Sujit Kumar Sah</h1>
+<h3 align="center">Full Stack Developer | JavaScript/TypeScript (Node.js, Express, NestJS) | PHP (Laravel, CodeIgniter) | React and Next.js | Building Scalable Web Applications</h3>
 
-- 🔭 I’m currently working on **full-stack web apps using Laravel, NestJS & React**
+- 🔭 I work with **PHP (Laravel, CodeIgniter), JavaScript/TypeScript (Node.js, Express, NestJS), React and Next.js**
 
-- 🌱 I’m currently learning **DevOps and advanced system architecture**
+- 🌱 Both SQL and NoSQL databases (MySQL, MongoDB) and love building scalable, maintainable web apps.
 
-- 👯 I’m open to collaborating on **open-source or freelance projects**
+- 🚀 Open to collaboration, freelance work, and new challenges.
 
-- 💬 Ask me about **PHP, JavaScript/TypeScript, Node.js, React, MySQL, MongoDB**
+- 🧠 Always learning. Always coding.
 
-- 📫 How to reach me: **[your email]** or [LinkedIn profile](https://linkedin.com/in/yourprofile)
+- 📫 How to reach me: **[[Website](https://sks.com.np/)]** or [LinkedIn profile](https://linkedin.com/in/sujititc)
 
 - ⚡ Fun fact: I write clean code and break things (intentionally) to learn faster 😄
 
@@ -32,5 +32,5 @@
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevSujititc&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSujititc&layout=compact&theme=github_dark)
