@@ -13,16 +13,14 @@
 
 ### 🙋 About Me
 
-I'm a **Full Stack Developer** and **Software Architect** from **Nepal** with **20+ years** of experience building web applications and SaaS platforms.
-I specialize in **Laravel, Vue.js, React, Node.js, and TypeScript**, with a strong focus on scalable architecture, AI integration, and business automation.
-I enjoy turning complex ideas into simple, reliable, and maintainable software for businesses and startups worldwide.
+I’m a **Full Stack Developer** and **Software Architect** from **Nepal** with **20+ years** of experience in **software development** and **architecture**. Since 2006, I’ve worked with clients worldwide to design and build scalable web applications, multi-tenant SaaS platforms, mobile apps, APIs, and AI-powered automation solutions using technologies such as **Laravel, Vue.js, React, Node.js, and TypeScript**. My experience covers industries including healthcare, finance, e-commerce, real estate, marketplaces, education, and insurance. I enjoy turning complex business ideas into simple, reliable, secure, and maintainable software that helps businesses and startups grow.
 
 - 🔭 Building with **PHP (Laravel, CodeIgniter)**, **JavaScript/TypeScript (Node.js, Express, NestJS)** and **React, Next.js and Vue.js**
-- 🤖 Currently focused on **AI integration and automation** in modern web applications
-- 🏆 Speciality: **auction and bidding platforms** (penny, unique-bid, reverse, Dutch, silent and forward auctions)
+- 🏗️ Architecture: **Clean Architecture**, **Domain-Driven Design** and multi-tenant SaaS with tenant data isolation and role-based access control
+- 🤖 AI: semantic search, workflow assistants, conversational data entry and workflow automation  
+- 🏆 Speciality: Real Time **auction and bidding platforms** (penny, unique-bid, reverse, Dutch, silent and forward auctions)
 - 💳 Payment integrations: **Stripe**, **PayPal**, bank APIs, digital wallets and local payment gateways
 - 🗄️ Databases: **MySQL**, **PostgreSQL** and **MongoDB**, designed for scale and performance
-- 🎓 B.E. in Information Technology (Everest Engineering College) and MBS (Shanker Dev Campus), so I can talk to both the tech team and the business team
 - 🤝 Open to **freelance, contract and remote collaboration**
 - ⚡ Fun fact: I write clean code and break things (on purpose) to learn faster 😄
 
@@ -32,10 +30,11 @@ I enjoy turning complex ideas into simple, reliable, and maintainable software f
 
 | Domain | Examples |
 |---|---|
+| ☁️ SaaS | Multi-tenant business platforms (CRM, finance, documents, projects, inventory), clinic and practice management |
 | 🛒 Commerce | E-commerce stores, inventory systems, secure checkout and payment flows |
 | 🔨 Auctions | Real-time bidding: penny, lowest/highest unique bid, reverse, Dutch, silent |
 | 🏠 Marketplaces | Real-estate portals, job boards, classified listing sites |
-| 🚕 On-demand | Food delivery, taxi booking, salon appointment apps |
+| 🚕 Booking | Service booking apps |
 | 🎓 EdTech & Health | Learning management systems (LMS), healthcare and medical apps |
 | 💬 Social & Real-time | Social networks, real-time messaging, event management tools |
 
@@ -88,11 +87,22 @@ I enjoy turning complex ideas into simple, reliable, and maintainable software f
 
 ### 💼 Experience
 
-- **Freelance Full Stack Developer** (Remote) · *Jan 2024 – Present*
-- **Project Manager | Full Stack Developer** · E Multitech Solution Pvt. Ltd · *2015 – 2023*
-- **Senior Software Engineer** · EBPearls · *2012 – 2014*
-- **Senior Web Developer** (Remote) · ZeinxsMedia · *2011* (real-time penny and unique-bid auctions on AWS)
-- **Senior Web Developer** · ViewNepal Pvt. Ltd · *2006 – 2010*
+- **Full Stack Developer**: Freelance / Self-Employed (Remote) · *Aug 2026 – Present*<br>
+  Custom web apps, SaaS and enterprise platforms; multi-tenant architecture, Clean Architecture/DDD, AI features and workflow automation
+- **Full Stack Developer** (Remote, Part Time): chlibesser.ch GmbH, Switzerland · *Jan 2026 – Jul 2026*<br>
+  Multi-tenant SaaS for SMEs across 25+ business domains, built with Laravel, PostgreSQL, Vue 3, TypeScript, Vuetify and Pinia, with AI-powered search and assistants
+- **Senior Full Stack Developer** (Remote): PPMP, Melbourne, Australia · *Jul 2025 – Jul 2026*<br>
+  BetterClinics clinic management SaaS: zero-data-loss MySQL migration, HealthEngine and Xero API integrations
+- **Full Stack Developer**: Freelance / Self-Employed (Remote) · *Jan 2024 – Jun 2025*<br>
+  Client web apps and REST APIs with Laravel, Node.js, Express, React and Tailwind CSS
+- **Project Manager | Full Stack Developer**: E-multitechsolution Pvt. Ltd., Lalitpur, Nepal · *Jan 2015 – Dec 2023*<br>
+  Led delivery and mentored the team while building with Laravel, CodeIgniter, React, Node.js, NestJS and TypeScript
+- **Senior Software Engineer**: Ebpearls Pty. Ltd., Lalitpur, Nepal · *Jan 2012 – Dec 2014*<br>
+  Client projects in PHP/CodeIgniter, WordPress and Drupal
+- **Senior Web Developer**: ZeinxsMedia Pvt. Ltd., Manchester, UK (Remote) · *Jan 2011 – Dec 2011*<br>
+  Real-time penny and unique-bid auction platforms, with AWS deployment
+- **Senior Web Developer / PHP Programmer**: View Nepal Pvt. Ltd., Kathmandu, Nepal · *Aug 2006 – Dec 2010*<br>
+  CMS, e-commerce, travel, classifieds and real-estate systems
 
 ---
 
