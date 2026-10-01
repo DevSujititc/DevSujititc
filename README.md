@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sujit Kumar Sah</h1>
+<h1 align="center">Hi 👋, I'm Sujit Sah</h1>
 <h3 align="center">Full Stack Developer | JavaScript/TypeScript (Node.js, Express, NestJS) | PHP (Laravel, CodeIgniter) | React and Next.js | Building Scalable Web Applications</h3>
 
 - 🔭 I work with **PHP (Laravel, CodeIgniter), JavaScript/TypeScript (Node.js, Express, NestJS), React and Next.js**
