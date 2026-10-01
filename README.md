@@ -18,7 +18,6 @@ I specialize in **Laravel, Vue.js, React, Node.js, and TypeScript**, with a stro
 I enjoy turning complex ideas into simple, reliable, and maintainable software for businesses and startups worldwide.
 
 - 🔭 Building with **PHP (Laravel, CodeIgniter)**, **JavaScript/TypeScript (Node.js, Express, NestJS)** and **React, Next.js and Vue.js**
-- 📱 Cross-platform mobile apps with **React Native** and **Flutter**, plus native **Android** and **iOS** experience
 - 🤖 Currently focused on **AI integration and automation** in modern web applications
 - 🏆 Speciality: **auction and bidding platforms** (penny, unique-bid, reverse, Dutch, silent and forward auctions)
 - 💳 Payment integrations: **Stripe**, **PayPal**, bank APIs, digital wallets and local payment gateways
