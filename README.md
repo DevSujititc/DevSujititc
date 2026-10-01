@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujit Sah</h1>
-<h3 align="center">Laravel Full Stack Developer from Kathmandu, Nepal 🇳🇵 — building secure, scalable web & mobile apps since 2006</h3>
+<h3 align="center">Full Stack Developer | Laravel | Vue.js | React | Node.js | Software Architect | AI & Automation</h3>
 
 <p align="center">
   <a href="https://www.sks.com.np/"><img src="https://img.shields.io/badge/Website-sks.com.np-0074D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
@@ -13,7 +13,9 @@
 
 ### 🙋 About Me
 
-I'm a **freelance Full Stack Developer** with **20+ years** of experience. I've worked with startups, businesses and entrepreneurs around the world, from first idea to launch and through ongoing support.
+I'm a **Full Stack Developer** and **Software Architect** from **Nepal** with **20+ years** of experience building web applications and SaaS platforms.
+I specialize in **Laravel, Vue.js, React, Node.js, and TypeScript**, with a strong focus on scalable architecture, AI integration, and business automation.
+I enjoy turning complex ideas into simple, reliable, and maintainable software for businesses and startups worldwide.
 
 - 🔭 Building with **PHP (Laravel, CodeIgniter)**, **JavaScript/TypeScript (Node.js, Express, NestJS)** and **React, Next.js and Vue.js**
 - 📱 Cross-platform mobile apps with **React Native** and **Flutter**, plus native **Android** and **iOS** experience
