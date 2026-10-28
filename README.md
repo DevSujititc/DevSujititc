@@ -1,28 +1,52 @@
 <h1 align="center">Hi 👋, I'm Sujit Sah</h1>
-<h3 align="center">Full Stack Developer | Laravel | Vue.js | React | Node.js | Software Architect | AI & Automation</h3>
+<h3 align="center">Senior Software Engineer & Software Architect | Full Stack Developer | AI & Automation</h3>
 
 <p align="center">
   <a href="https://www.sks.com.np/"><img src="https://img.shields.io/badge/Website-sks.com.np-0074D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/sujititc"><img src="https://img.shields.io/badge/LinkedIn-sujititc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.facebook.com/freelancewebdevelopernepal"><img src="https://img.shields.io/badge/Facebook-Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://www.sks.com.np/profile"><img src="https://img.shields.io/badge/Profile-View%20Resume-d9962a?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Profile"></a>
-  <a href="https://www.sks.com.np/contact"><img src="https://img.shields.io/badge/Hire%20Me-Available-2ea44f?style=for-the-badge&logo=handshake&logoColor=white" alt="Hire me"></a>
+  <a href="https://www.sks.com.np/contact"><img src="https://img.shields.io/badge/Contact-Get%20in%20Touch-2ea44f?style=for-the-badge&logo=handshake&logoColor=white" alt="Contact"></a>
 </p>
 
 ---
 
 ### 🙋 About Me
 
-I’m a **Full Stack Developer** and **Software Architect** from **Nepal** with **20+ years** of experience in **software development** and **architecture**. Since 2006, I’ve worked with clients worldwide to design and build scalable web applications, multi-tenant SaaS platforms, mobile apps, APIs, and AI-powered automation solutions using technologies such as **Laravel, Vue.js, React, Node.js, and TypeScript**. My experience covers industries including healthcare, finance, e-commerce, real estate, marketplaces, education, and insurance. I enjoy turning complex business ideas into simple, reliable, secure, and maintainable software that helps businesses and startups grow.
+I'm a **Senior Software Engineer**, **Software Architect**, and **Full Stack Developer** from **Nepal** with **20+ years** of experience designing, developing, and scaling web applications, enterprise systems, multi-tenant SaaS platforms, and business automation solutions.
 
-- 🔭 Building with **PHP (Laravel, CodeIgniter)**, **JavaScript/TypeScript (Node.js, Express, NestJS)** and **React, Next.js and Vue.js**
-- 🏗️ Architecture: **Clean Architecture**, **Domain-Driven Design** and multi-tenant SaaS with tenant data isolation and role-based access control
-- 🤖 AI: semantic search, workflow assistants, conversational data entry and workflow automation  
-- 🏆 Speciality: Real Time **auction and bidding platforms** (penny, unique-bid, reverse, Dutch, silent and forward auctions)
-- 💳 Payment integrations: **Stripe**, **PayPal**, bank APIs, digital wallets and local payment gateways
-- 🗄️ Databases: **MySQL**, **PostgreSQL** and **MongoDB**, designed for scale and performance
-- 🤝 Open to **freelance, contract and remote collaboration**
-- ⚡ Fun fact: I write clean code and break things (on purpose) to learn faster 😄
+My expertise spans the entire software development lifecycle, including system architecture, database design, backend and frontend development, API design and integration, deployment automation with **CI/CD (GitHub Actions, AWS)**, performance optimization, and production support. I also have experience in technical leadership, leading development teams of 4–5 engineers, code reviews, developer mentoring, and delivering reliable software solutions for businesses and **public-sector organizations**.
+
+My core technology stack includes **Laravel, Node.js, Vue.js, React, TypeScript, MySQL, and PostgreSQL**. I focus on building secure, scalable, maintainable applications using sound architectural principles and modern software engineering practices.
+
+Throughout my career, I've contributed to projects across government, healthcare, finance, procurement, e-commerce, real estate, online marketplaces, education, and insurance. I've also integrated AI-powered features such as semantic search and workflow assistants, and I continue to apply AI and automation to streamline business workflows, reduce manual effort, and improve operational efficiency.
+
+I enjoy transforming complex business requirements into practical, reliable software solutions that solve real-world problems and help businesses and startups grow.
+
+---
+
+### 🎯 Core Competencies
+
+| | |
+|---|---|
+| ▪ Software Architecture & System Design | ▪ Database Design & Optimization |
+| ▪ Software Development | ▪ API Design & Secure Integration |
+| ▪ Code Review & Engineering Standards | ▪ CI/CD Pipelines (GitHub Actions, AWS) |
+| ▪ Team Leadership & Mentoring | ▪ Release Management & QA Coordination |
+| ▪ AI Integration & Automation | ▪ Project Planning & Technical Documentation |
+
+---
+
+### 🧠 Core Technical Skills
+
+- **Languages:** PHP (Laravel, CodeIgniter), Node.js (NestJS, Express.js), TypeScript, JavaScript
+- **Frontend:** Vue 3 (Vuetify, Pinia, Vite), React.js, Tailwind CSS, Bootstrap, HTML5/CSS3
+- **Databases:** MySQL, PostgreSQL, MongoDB: schema design, data migration, query optimization
+- **Architecture:** Clean Architecture, Domain-Driven Design, multi-tenant SaaS, RESTful API design
+- **Security:** Role-based access control, maker-checker approval workflows, audit logging, security patching and framework upgrades
+- **CI/CD & Cloud:** CI/CD pipelines with GitHub Actions and AWS, Git branching workflows, Nginx, Apache, Linux/cPanel deployment, backup and rollback planning
+- **Integrations:** PayPal, Stripe, Skrill, HealthEngine API, Xero Accounting API
+- **AI-Assisted Development:** Claude, GitHub Copilot, ChatGPT for code generation, workflow automation, and semantic search
 
 ---
 
@@ -30,13 +54,13 @@ I’m a **Full Stack Developer** and **Software Architect** from **Nepal** with 
 
 | Domain | Examples |
 |---|---|
+| 🏛️ Government | Legal case management, litigation management, role-based approval workflows |
 | ☁️ SaaS | Multi-tenant business platforms (CRM, finance, documents, projects, inventory), clinic and practice management |
-| 🛒 Commerce | E-commerce stores, inventory systems, secure checkout and payment flows |
-| 🔨 Auctions | Real-time bidding: penny, lowest/highest unique bid, reverse, Dutch, silent |
-| 🏠 Marketplaces | Real-estate portals, job boards, classified listing sites |
-| 🚕 Booking | Service booking apps |
+| 🛒 Commerce & Procurement | E-commerce stores, e-auction and procurement systems, secure checkout and payment flows |
+| 🔨 Auctions | Real-time bidding: penny, lowest/highest unique bid, price-reveal, property auctions |
+| 🏠 Marketplaces | Real-estate portals, classified listing sites |
+| 🚕 Booking | Subscription-based service booking platforms |
 | 🎓 EdTech & Health | Learning management systems (LMS), healthcare and medical apps |
-| 💬 Social & Real-time | Social networks, real-time messaging, event management tools |
 
 ---
 
@@ -66,70 +90,63 @@ I’m a **Full Stack Developer** and **Software Architect** from **Nepal** with 
 **Mobile**<br>
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
 
 **Databases**<br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-**Tools & Platforms**<br>
+**DevOps & Cloud**<br>
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+
+**Integrations**<br>
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-003087?style=flat&logo=paypal&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Xero](https://img.shields.io/badge/Xero-13B5EA?style=flat&logo=xero&logoColor=white)
 
 ---
 
 ### 💼 Experience
 
-- **Full Stack Developer**: Freelance / Self-Employed (Remote) · *Aug 2026 – Present*<br>
-  Custom web apps, SaaS and enterprise platforms; multi-tenant architecture, Clean Architecture/DDD, AI features and workflow automation
-- **Full Stack Developer** (Remote, Part Time): chlibesser.ch GmbH, Switzerland · *Jan 2026 – Jul 2026*<br>
-  Multi-tenant SaaS for SMEs across 25+ business domains, built with Laravel, PostgreSQL, Vue 3, TypeScript, Vuetify and Pinia, with AI-powered search and assistants
-- **Senior Full Stack Developer** (Remote): PPMP, Melbourne, Australia · *Jul 2025 – Jul 2026*<br>
-  BetterClinics clinic management SaaS: zero-data-loss MySQL migration, HealthEngine and Xero API integrations
-- **Full Stack Developer**: Freelance / Self-Employed (Remote) · *Jan 2024 – Jun 2025*<br>
-  Client web apps and REST APIs with Laravel, Node.js, Express, React and Tailwind CSS
-- **Project Manager | Full Stack Developer**: E-multitechsolution Pvt. Ltd., Lalitpur, Nepal · *Jan 2015 – Dec 2023*<br>
-  Led delivery and mentored the team while building with Laravel, CodeIgniter, React, Node.js, NestJS and TypeScript
+- **Independent Software Engineer & Architect, IT Consultant**: Freelance (Remote) · *Aug 2026 – Present*<br>
+  Software architecture, technical requirements, feasibility and cost analysis, and full-stack delivery for client systems
+- **Senior Full Stack Developer** (Remote, Part-Time): chlibesser.ch GmbH, Switzerland · *Jan 2026 – Jul 2026*<br>
+  Multi-tenant SaaS for SMEs across 25+ business domains (Clean Architecture, DDD), with code reviews, reusable platform services, CI/CD and AI-powered search. Laravel, PostgreSQL, Vue 3, TypeScript
+- **Senior Software Engineer** (Full-Time): Core Dreams Innovation Pvt. Ltd., Lalitpur, Nepal · *Jul 2025 – Jul 2026*<br>
+  BetterClinics clinic management SaaS for PPMP, Melbourne, Australia: zero-data-loss MySQL migration, HealthEngine and Xero API integrations, CI/CD, production support
+- **E-multitechsolution Pvt. Ltd.**, Lalitpur, Nepal · *Jan 2015 – Jun 2025*
+  - **Project Manager** · *May 2023 – Jun 2025*<br>
+    Led two development teams of 4–5 developers; code reviews, CI/CD (GitHub Actions, AWS), release management and progress reporting
+  - **Senior Software Engineer** · *Jan 2015 – Apr 2023*<br>
+    System architecture, database design and RESTful APIs; designed and led delivery of a Legal Case Management System (2022)
 - **Senior Software Engineer**: Ebpearls Pty. Ltd., Lalitpur, Nepal · *Jan 2012 – Dec 2014*<br>
-  Client projects in PHP/CodeIgniter, WordPress and Drupal
+  Application architecture and database design; client projects in PHP/CodeIgniter, WordPress and Drupal
 - **Senior Web Developer**: ZeinxsMedia Pvt. Ltd., Manchester, UK (Remote) · *Jan 2011 – Dec 2011*<br>
-  Real-time penny and unique-bid auction platforms, with AWS deployment
-- **Senior Web Developer / PHP Programmer**: View Nepal Pvt. Ltd., Kathmandu, Nepal · *Aug 2006 – Dec 2010*<br>
-  CMS, e-commerce, travel, classifieds and real-estate systems
+  Real-time penny, unique-bid and price-reveal auction platforms, with AWS deployment
+- **View Nepal Pvt. Ltd.**, Kathmandu, Nepal · *Aug 2006 – Dec 2010*
+  - **Senior Web Developer** · *Jan 2008 – Dec 2010*
+  - **Backend Developer** · *Aug 2006 – Dec 2007*<br>
+    CMS, e-commerce, travel, classifieds and real-estate systems in PHP and MySQL
 
 ---
 
 ### ⚙️ How I Work
 
-`Discovery` → `UI/UX & Wireframes` → `Architecture & APIs` → `Development` → `Testing & QA` → `Launch` → `Support`
+`Requirements` → `Architecture & APIs` → `Development` → `Code Review` → `Testing & QA` → `CI/CD Release` → `Support & Handover`
 
-Agile two-week sprints · feature branches and code reviews · CI/CD · clear documentation · regular, open communication.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DevSujititc&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSujititc&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevSujititc&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
-</p>
+Agile sprints · feature branches and code reviews · CI/CD with GitHub Actions and AWS · clear technical documentation · regular, open communication.
 
 ---
 
-### 📫 Let's Work Together
-
-Have a project in mind, like an MVP, a SaaS platform, an auction system or a mobile app? Get in touch:
+### 📫 Get in Touch
 
 🌐 [sks.com.np](https://www.sks.com.np/) · 💼 [LinkedIn](https://www.linkedin.com/in/sujititc) · 📘 [Facebook](https://www.facebook.com/freelancewebdevelopernepal) · ✉️ [Contact form](https://www.sks.com.np/contact)
 
-<p align="center"><i>Always learning. Always coding. 🧠</i></p>
+<p align="center"><i>Always learning. Always building. 🧠</i></p>
