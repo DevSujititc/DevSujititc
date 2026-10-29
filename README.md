@@ -132,7 +132,7 @@ I enjoy transforming complex business requirements into practical, reliable soft
 `Laravel` `PostgreSQL` `Vue 3` `TypeScript` `Vuetify` `GitHub Actions` `AWS`
 
 #### 🏥 Senior Software Engineer
-**Core Dreams Innovation Pvt. Ltd.**, Lalitpur, Nepal · Full-Time · *Jul 2025 – Jul 2026*
+**Core Dreams Innovation Pvt. Ltd.**, Lalitpur, Nepal · Full-Time · *Jul 2025 – Jun 2026*
 
 - Enhanced clinic management SaaS, optimized application performance, and upgraded MySQL databases with zero data loss.
 - Integrated HealthEngine and Xero APIs for appointment synchronization and automated invoicing.
