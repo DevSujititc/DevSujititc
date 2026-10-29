@@ -87,6 +87,10 @@ I enjoy transforming complex business requirements into practical, reliable soft
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
+**Mobile**<br>
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
 **Databases**<br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -111,25 +115,80 @@ I enjoy transforming complex business requirements into practical, reliable soft
 
 ### 💼 Experience
 
-- **Independent Software Engineer & Architect, IT Consultant**: Freelance (Remote) · *Aug 2026 – Present*<br>
-  Software architecture, technical requirements, feasibility and cost analysis, and full-stack delivery for client systems
-- **Senior Full Stack Developer** (Remote, Part-Time): chlibesser.ch GmbH, Switzerland · *Jan 2026 – Jul 2026*<br>
-  Multi-tenant SaaS for SMEs across 25+ business domains (Clean Architecture, DDD), with code reviews, reusable platform services, CI/CD and AI-powered search. Laravel, PostgreSQL, Vue 3, TypeScript
-- **Senior Software Engineer** (Full-Time): Core Dreams Innovation Pvt. Ltd., Lalitpur, Nepal · *Jul 2025 – Jul 2026*<br>
-  BetterClinics clinic management SaaS for PPMP, Melbourne, Australia: zero-data-loss MySQL migration, HealthEngine and Xero API integrations, CI/CD, production support
-- **E-multitechsolution Pvt. Ltd.**, Lalitpur, Nepal · *Jan 2015 – Jun 2025*
-  - **Project Manager** · *May 2023 – Jun 2025*<br>
-    Led two development teams of 4–5 developers; code reviews, CI/CD (GitHub Actions, AWS), release management and progress reporting
-  - **Senior Software Engineer** · *Jan 2015 – Apr 2023*<br>
-    System architecture, database design and RESTful APIs; designed and led delivery of a Legal Case Management System (2022)
-- **Senior Software Engineer**: Ebpearls Pty. Ltd., Lalitpur, Nepal · *Jan 2012 – Dec 2014*<br>
-  Application architecture and database design; client projects in PHP/CodeIgniter, WordPress and Drupal
-- **Senior Web Developer**: ZeinxsMedia Pvt. Ltd., Manchester, UK (Remote) · *Jan 2011 – Dec 2011*<br>
-  Real-time penny, unique-bid and price-reveal auction platforms, with AWS deployment
-- **View Nepal Pvt. Ltd.**, Kathmandu, Nepal · *Aug 2006 – Dec 2010*
-  - **Senior Web Developer** · *Jan 2008 – Dec 2010*
-  - **Backend Developer** · *Aug 2006 – Dec 2007*<br>
-    CMS, e-commerce, travel, classifieds and real-estate systems in PHP and MySQL
+#### 🧭 Independent Software Engineer & Architect
+**Freelance** · Remote · *Aug 2026 – Present*
+
+- Advise on technology strategy, digital transformation, and enterprise architecture.
+- Analyze business requirements and design scalable, secure, and cost-effective solutions.
+- Evaluate technologies, vendors, feasibility, risks, and implementation costs.
+- Collaborate with stakeholders, coordinate Agile delivery, and guide cross-functional teams.
+- Develop technical documentation, solution proposals, architecture designs, and project roadmaps.
+
+#### 🇨🇭 Senior Full Stack Developer
+**chlibesser.ch GmbH**, Switzerland · Remote, Part-Time · *Jan 2026 – Jul 2026*
+
+- Architected a multi-tenant SaaS platform covering 25+ business domains using Clean Architecture, DDD, and PostgreSQL.
+- Led development activities, code reviews, and engineering standards to ensure secure, scalable, and maintainable software.
+- Implemented secure multi-tenancy, RBAC, REST APIs, and reusable platform services.
+- Developed full-stack features using Laravel, PostgreSQL, Vue 3, TypeScript, and Vuetify.
+- Built CI/CD pipelines with GitHub Actions and AWS, and integrated AI-powered search and workflow assistants.
+
+`Laravel` `PostgreSQL` `Vue 3` `TypeScript` `Vuetify` `GitHub Actions` `AWS`
+
+#### 🏥 Senior Software Engineer
+**Core Dreams Innovation Pvt. Ltd.**, Lalitpur, Nepal · Full-Time · *Jul 2025 – Jul 2026*
+
+- Enhanced clinic management SaaS, optimized application performance, and upgraded MySQL databases with zero data loss.
+- Integrated HealthEngine and Xero APIs for appointment synchronization and automated invoicing.
+- Collaborated with a five-member team, maintained AWS-based CI/CD pipelines, and resolved production issues.
+
+`Laravel` `React` `MySQL` `HealthEngine API` `Xero API` `GitHub Actions` `AWS` `JIRA`
+
+#### 🏢 E-multitechsolution Pvt. Ltd.
+Lalitpur, Nepal · *Jan 2015 – Jun 2025*
+
+**Project Manager** · *May 2023 – Jun 2025*
+- Managed end-to-end software delivery, led two development teams, and coordinated client requirements, technical planning, and project execution.
+- Oversaw architecture, code quality, CI/CD, deployments, documentation, and production support.
+- Managed enhancements and releases for the Legal Case Management System.
+
+**Senior Software Engineer** · *Jan 2015 – Apr 2023*
+- Designed and developed enterprise applications and government information systems using Laravel, CodeIgniter, React, Node.js, NestJS, MySQL, and MongoDB.
+- Led development of a Legal Case Management System featuring case workflows, approval processes, audit trails, Nepali calendar support, and automated backups.
+- Managed APIs, database optimization, code reviews, deployments, and production support.
+
+`Laravel` `CodeIgniter` `React` `Node.js` `NestJS` `MySQL` `MongoDB` `GitHub Actions` `AWS`
+
+#### 💻 Senior Software Engineer
+**Ebpearls Pty. Ltd.**, Lalitpur, Nepal · *Jan 2012 – Dec 2014*
+
+- Designed and developed full-stack web applications using PHP, CodeIgniter, WordPress, Drupal, and MySQL.
+- Implemented backend functionality, responsive interfaces, and customized CMS solutions.
+- Optimized databases, reviewed code, resolved defects, and managed application maintenance and deployment.
+
+`PHP` `CodeIgniter` `WordPress` `Drupal` `MySQL` `Bootstrap`
+
+#### 🔨 Senior Web Developer
+**ZeinxsMedia Pvt. Ltd.**, Manchester, UK · Remote · *Jan 2011 – Dec 2011*
+
+- Designed and developed auction platforms, including Penny Auction, Lowest Unique Bid, and Reveal the Price systems.
+- Implemented auction logic, backend workflows, and database optimization using PHP, CodeIgniter, and MySQL.
+- Managed AWS deployments, performance optimization, and international client requirements across UK, US, and Canadian markets.
+
+`PHP` `CodeIgniter` `MySQL` `JavaScript` `AWS`
+
+#### 🌐 View Nepal Pvt. Ltd.
+Kathmandu, Nepal · *Aug 2006 – Dec 2010*
+
+**Senior Web Developer** · *Jan 2008 – Dec 2010*
+- Designed and developed CMS, e-commerce, travel, classified, and real estate applications using PHP, MySQL, JavaScript, and jQuery.
+- Managed application architecture, database optimization, feature development, and production support.
+
+**Backend Developer** · *Aug 2006 – Dec 2007*
+- Developed server-side functionality, database schemas, authentication, and dynamic websites using PHP and MySQL.
+- Supported application testing, debugging, maintenance, and feature implementation.
+
+`PHP` `MySQL` `JavaScript` `jQuery` `HTML` `CSS`
 
 ---
 
